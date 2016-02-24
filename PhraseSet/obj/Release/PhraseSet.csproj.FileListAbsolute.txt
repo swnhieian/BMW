@@ -1,0 +1,6 @@
+E:\Study\HCI\Test\PhraseSet\PhraseSet\bin\Release\PhraseSet.exe.config
+E:\Study\HCI\Test\PhraseSet\PhraseSet\bin\Release\PhraseSet.exe
+E:\Study\HCI\Test\PhraseSet\PhraseSet\bin\Release\PhraseSet.pdb
+E:\Study\HCI\Test\PhraseSet\PhraseSet\obj\Release\PhraseSet.exe
+E:\Study\HCI\Test\PhraseSet\PhraseSet\obj\Release\PhraseSet.pdb
+E:\Study\HCI\Test\PhraseSet\PhraseSet\obj\Release\PhraseSet.csprojResolveAssemblyReference.cache
